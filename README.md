@@ -11,7 +11,7 @@ Later I go to Department of Computer Science in SJTU
 ***
 #### Key Point:
 ***
-B+ Tree index, Two level Cache with LRU
+B+/B Tree index, Two level Cache with LRU
 ***
 I have already attached my presentation file(.pdf & .ppt), and these files are more detailed
 
