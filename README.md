@@ -13,6 +13,7 @@
 - B+/B Tree index
 - Two level Cache with LRU
 - Recovery Mechanism
+- Multithread Optimization for Query
 
 I have already attached my presentation file(.pdf & .ppt), and these files are more detailed
 
